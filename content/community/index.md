@@ -63,4 +63,8 @@ The mission of the [Bioconductor project](https://www.bioconductor.org/) is to d
 
 | Topic | Info | Links |
 |--------|------|-------|
-| [Metabolomics](https://metabolomics.usegalaxy.eu/) | Community driven metabolomics Galaxy service. The main aim is to give people a public space to discover and run metabolomics tools | | 
+| [Metabolomics](https://metabolomics.usegalaxy.eu/) | Community driven metabolomics Galaxy service. The main aim is to give people a public space to discover and run metabolomics tools | [<i class="fa fa-envelope" aria-hidden="true"></i>](https://lists.galaxyproject.org/lists/metabolomics.lists.galaxyproject.org/) [<i class="fa fa-external-link-alt" aria-hidden="true"></i>](https://training.galaxyproject.org/training-material/topics/metabolomics/) | 
+| [Ecology](https://ecology.usegalaxy.eu/) | A web platform to get, process, analyze and visualize ecological data | [<i class="fa fa-external-link-alt" aria-hidden="true"></i>](https://training.galaxyproject.org/training-material/topics/ecology/) [<i class="fa fa-external-link-alt" aria-hidden="true"></i>](https://ecology.usegalaxy.eu/tours/core.galaxy_ui) | 
+| [Genome Annotation](https://annotation.usegalaxy.eu)| A complete Galaxy instance for Genome Annotation. | |
+| [Climate](https://climate.usegalaxy.eu/) | The Climate Science workbench is a comprehensive set of analysis tools and consolidated workflow | [<i class="fa fa-external-link-alt" aria-hidden="true"></i>](https://training.galaxyproject.org/training-material/topics/climate/)|
+|[Proteomics](https://proteore.org/)| Galaxy-based platform for the functional analysis and the interpretation of proteomics and transcriptomics data in biomedical research  | [<i class="fa fa-envelope" aria-hidden="true"></i>](https://lists.galaxyproject.org/lists/galaxy-proteomics.lists.galaxyproject.org/) |
